@@ -1,0 +1,89 @@
+.img {
+  max-width: 80vw;
+  height: auto;
+}
+
+.summary {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 2em;
+  background-color: #c4aba2;
+  text-align: center;
+}
+
+.skill {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 2em;
+  background-color: #f2e9e0;
+  text-align: center;
+}
+
+.games {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 2em;
+  background-color: #f2e9e0;
+  text-align: center;
+}
+
+.exp {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 2em;
+  background-color: #f2e9e0;
+  text-align: center;
+}
+
+.contactPage {
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 20px;
+  max-width: 80vw;
+  height: auto;
+  text-align: center;
+  position: fixed;
+  padding: 2vw;
+  margin: 5em;
+  margin-left: 35vw;
+  margin-top: 10em;
+}
+
+.close {
+  background-color: #fff;
+  border-radius: 50%;
+  width: 40px;
+  margin: -1.5em;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.game {
+  max-width: 80vw;
+  height: auto;
+  width: 350px;
+  padding: 1em;
+  border-radius: 50px;
+}
+
+.name {
+  padding-top: 2em;
+  text-align: center;
+  max-width: 80vw;
+  height: auto;
+}
+
+.contact {
+  padding-bottom: 7em;
+  padding-left: 2em;
+  padding-top: 5em;
+}
+
+.menu {
+  background-color: #c18e8e;
+  margin: -1em;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  text-align: center;
+}
